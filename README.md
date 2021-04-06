@@ -30,7 +30,7 @@ Gör sedan så här för att få filerna på rätt plats
 
 HÄR LÄGGS DET UPPDATERINGAR SOM ALLA BÖR LADDA HEM!
 -------------------------------------------------------------------------------------------
-STEG 2 (UPPDATERING 2021-04-04) (ALLA MÅSTE GÖRA DETTA!)
+STEG 2 (ALLA MÅSTE GÖRA DETTA!)
 
 Alla versioner: https://github.com/daisect/valheim/tree/V1.0
 Ladda hem nyaste: https://github.com/daisect/valheim/releases/download/V1.1/BepInEx.7z
