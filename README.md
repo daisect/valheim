@@ -4,6 +4,7 @@ ValheimPlus är en modifikation av spelet Valheim.
 Modden möjliggör ändringar av inställningar som normalt sett inte går i originalet.
 
 ValheimPlus kräver att man har speciella filer inlagda i sin klient för att man ska kunna ansluta till servern.
+
 -------------------------------------------------------------------------------------------
 STEG 1 (ALLA MÅSTE GÖRA DETTA STEG FÖRST!)
 
@@ -19,25 +20,21 @@ Gör sedan så här för att få filerna på rätt plats
 4. För över filerna från den uppackade mappen som du precis packade upp. Dra och släpp filerna i rutan där Valheim finns installerat (Se punkten 2.) (Ersätt alla om rutan kommer upp)
 5. GÅ VIDARE TILL STEG 2 NEDANFÖR!
 
-TL;DR
-Titta på GIFen nedanför efter att du laddat hem ovanstående "WindowsClient.zip"
-Daisect — 03/23/2021
-Installera ValheimPlus TL;DR
-
-HÄR LÄGGS DET UPPDATERINGAR SOM ALLA BÖR LADDA HEM!
 
 -------------------------------------------------------------------------------------------
 STEG 2 (ALLA MÅSTE GÖRA DETTA!)
 
-Alla versioner: https://github.com/daisect/valheim
-Ladda hem nyaste: https://github.com/daisect/valheim/releases/download/V1.1/BepInEx.7z
+Ladda hem nyaste versionen här på Github som du hittar under "Releases"
 
 EFTER ATT DU LADDAT HEM OVANSTÅENDE:
 1. Ladda hem ovanstående "BepInEx.zip" -> Packa upp som en BepInEx mapp.
 2. Gå till ditt Steam bibliotek. (...\Steam\steamapps\common\Valheim)
 3. Kopiera den extraherade BepInEX mappen som du laddade hem i 1, sedan klicka ersätt alla filer.
 4. KLAR!
-Daisect — 03/24/2021
+
+-------------------------------------------------------------------------------------------
+
+
 STEG 3 VALFRITT
 Grafisk uppdatering som använder sig utav AI-scalning för 4x scalning på 99% av alla texturer i spelet. (*Använd inte om du har under 2GB VRAM Grafikkort)
 
